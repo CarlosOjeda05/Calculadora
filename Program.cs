@@ -10,7 +10,7 @@ public class Program
 
         while (!exit)
         {
-            Console.Write("\n");
+            Console.Write("\n\n\n\n");
             Console.WriteLine("Seleccione una operación:");
             Console.WriteLine("1. Suma");
             Console.WriteLine("2. Resta");
@@ -20,6 +20,8 @@ public class Program
             Console.WriteLine("6. Porcentaje");
             Console.WriteLine("7. Raíz Cuadrada");
             Console.WriteLine("8. Salir");
+            Console.Write("\n");
+            Console.Write("\n");
             Console.Write("\n");
             Console.Write("Opción: ");
 

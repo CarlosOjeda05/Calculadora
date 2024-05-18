@@ -1,0 +1,14 @@
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\bin\Debug\net8.0\PruebasUnitarias.exe
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\bin\Debug\net8.0\PruebasUnitarias.deps.json
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\bin\Debug\net8.0\PruebasUnitarias.runtimeconfig.json
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\bin\Debug\net8.0\PruebasUnitarias.dll
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\bin\Debug\net8.0\PruebasUnitarias.pdb
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.AssemblyInfoInputs.cache
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.AssemblyInfo.cs
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.csproj.CoreCompileInputs.cache
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.dll
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\refint\PruebasUnitarias.dll
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.pdb
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.genruntimeconfig.cache
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\ref\PruebasUnitarias.dll

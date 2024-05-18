@@ -32,5 +32,23 @@ namespace PruebasUnitarias
             }
             return (float)a / b;
         }
+        public double Potencia(double a, double b)
+        {
+            return Math.Pow(a, b);
+        }
+
+        public double Porcentaje(double total, double porcentaje)
+        {
+            return (total * porcentaje) / 100.0;
+        }
+
+        public double RaizCuadrada(double a)
+        {
+            if (a < 0)
+            {
+                throw new ArgumentException("No puedes calcular la raíz cuadrada de un número negativo.");
+            }
+            return Math.Sqrt(a);
+        }
     }
 }

@@ -111,7 +111,7 @@ public class Program
                         }
                     default:
                         {
-                            Console.WriteLine("Opción no válida. Por favor intente de nuevo.");
+                            Console.WriteLine("Opcion no encontrada.");
                             break;
                         }
                 }

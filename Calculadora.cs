@@ -50,5 +50,45 @@ namespace PruebasUnitarias
             }
             return Math.Sqrt(a);
         }
+
+        public double Seno(double angleInDegrees)
+        {
+            return Math.Sin(angleInDegrees * Math.PI / 180.0);
+        }
+
+        public double Coseno(double angleInDegrees)
+        {
+            return Math.Cos(angleInDegrees * Math.PI / 180.0);
+        }
+
+        public double Tangente(double angleInDegrees)
+        {
+            return Math.Tan(angleInDegrees * Math.PI / 180.0);
+        }
+
+        public double Logaritmo(double a, double newBase)
+        {
+            return Math.Log(a, newBase);
+        }
+
+        public double LogaritmoNatural(double a)
+        {
+            return Math.Log(a);
+        }
+
+        public int Factorial(int n)
+        {
+            if (n < 0)
+            {
+                throw new ArgumentException("No se puede calcular el factorial de un número negativo.");
+            }
+
+            int result = 1;
+            for (int i = 2; i <= n; i++)
+            {
+                result *= i;
+            }
+            return result;
+        }
     }
 }

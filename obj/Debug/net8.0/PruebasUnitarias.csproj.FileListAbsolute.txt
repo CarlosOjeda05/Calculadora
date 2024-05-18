@@ -12,3 +12,4 @@ C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\r
 C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.pdb
 C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.genruntimeconfig.cache
 C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\ref\PruebasUnitarias.dll
+C:\Users\duvan\source\repos\PruebasUnitarias\PruebasUnitarias\obj\Debug\net8.0\PruebasUnitarias.sourcelink.json
